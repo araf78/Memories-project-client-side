@@ -4,6 +4,8 @@ import memories2 from './assets/memories2.jpg'
 import Posts from './posts/Posts';
 import Form from './form/Form';
 import useStyles from "./AppStyles"
+import useStyles from "../components/form/FormStyles"
+import useStyles from "../components/posts/PostsStyles"
 
 function App() {
   const classes = useStyles();
